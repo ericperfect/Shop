@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/admin/login.jsp=UTF-8
+encoding//src/com/itheima/dao/ProductDao.java=UTF-8
+encoding//src/com/itheima/dao/UserDao.java=UTF-8
+encoding//src/com/itheima/web/servlet/ActiveServlet.java=UTF-8
+encoding//src/com/itheima/web/servlet/ConfirmOrderServlet.java=UTF-8
+encoding//src/com/itheima/web/servlet/IndexServlet.java=UTF-8
+encoding//src/com/itheima/web/servlet/ProductFindByWordServlet.java=UTF-8
+encoding//src/com/itheima/web/servlet/ProductListByCidServlet.java=UTF-8
+encoding//src/com/itheima/web/servlet/RegisterServlet.java=UTF-8
